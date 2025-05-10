@@ -17,13 +17,13 @@ During my PhD studies, I focus on design, fabrication, and characterization of h
 &nbsp;
 ### Related Publication
 [5]Yangyang Zhuge, Zhihao Ren, **Zian Xiao**, Zixuan Zhang, Xinmiao Liu, Weixin Liu, Siyu Xu, Chong Pei Ho, Nanxi Li, and Chengkuo Lee, Photonic Bayesian Neural Networks: Leveraging Programmable Noise for Robust and Uncertainty-Aware Computing. **Adv. Sci**, to be published, 2025.
-&nbsp; 
+
 [4]Zhihao Ren, Zixuan Zhang, Yangyang Zhuge, **Zian Xiao**, Siyu Xu and Chengkuo Lee, Near-sensor Edge Computing (NSEC) System Enabled by a CMOS Compatible Photonic Integrated Circuit (PIC) Platform Using Bilayer AlN/Si Waveguides. **Nano-Micro Letters**, to be published, 2025.
-&nbsp; 
+
 [3]**Zian Xiao**, Zhihao Ren, Yangyang Zhuge, Zixuan Zhang, Jingkai Zhou, Siyu Xu, Cheng Xu, Bowei Dong, and Chengkuo Lee, Multimodal In-sensor Computing System Using Integrated Silicon Photonic Convolutional Processor, **Advacnced Science**, vol.11, no.47, 2408597, 2024.
-&nbsp; 
+
 [2]**Zian Xiao**, Weixin Liu, Siyu Xu, Jingkai Zhou, Zhihao Ren, Chengkuo Lee, Recent Progress in Silicon-based Photonic Integrated Circuits and Emerging Applications, **Advanced Optical Materials**, vol. 11, no. 20, 2301028, 2023.
-&nbsp;
+
 [1]Bowei Dong, Zixuan Zhang, Qiongfeng Shi, Jingxuan Wei, Yiming Ma, **Zian Xiao**, and Chengkuo Lee, Biometrics-Protected Optical Communication Enabled by Deep-Learning Enhanced Triboelectric/Photonic Synergistic Interface, **Science Advances**, Vol. 8, Issue 3, eabl9874, 2022.
 &nbsp; 
 &nbsp; 

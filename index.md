@@ -2,7 +2,8 @@
 ## Hello! This is Zian Xiao（肖子安）! 
 
 ### News
- congratulations!  Xiao Zian won the **Outstanding Student Paper Award** at the 38th IEEE MEMS (International Conference on Micro Electro Mechanical Systems), 2025, in Kaohsiung, Taiwan, for his paper titled ‘Edge-Computing Enabled Si Photonics Multimodal Sensor with Integrated Photonic Convolutional Processor.’ His work was selected from over 700 submissions. 
+**[2026.XX]** 🎉 Our paper titled *"End-to-end all-optical in-sensor computing system using photonic integrated circuits"* has been accepted by **Science Advances**!
+**[2025.01]** 🏆  Xiao Zian won the **Outstanding Student Paper Award** at the 38th IEEE MEMS (International Conference on Micro Electro Mechanical Systems), 2025, in Kaohsiung, Taiwan, for his paper titled ‘Edge-Computing Enabled Si Photonics Multimodal Sensor with Integrated Photonic Convolutional Processor.’ His work was selected from over 700 submissions. 
 
 
 I am currentlya Ph.D. student in Electrical and Computer Engineering at the Center for Intelligence Sensor and MEMS within [National University of Singapore](https://www.ece.nus.edu.sg/stfpage/elelc/home.html) and supervised by Prof. Chengkuo Lee. In the meantime, I am also an attached student at IME, supervised by Dr. Bowei Dong.

@@ -2,7 +2,7 @@
 ## Hello! This is Zian Xiao（肖子安）! 
 
 ### News
-:tada: congratulations! :tada: Xiao Zian won the **Outstanding Student Paper Award** at the 38th IEEE MEMS (International Conference on Micro Electro Mechanical Systems), 2025, in Kaohsiung, Taiwan, for his paper titled ‘Edge-Computing Enabled Si Photonics Multimodal Sensor with Integrated Photonic Convolutional Processor.’ His work was selected from over 700 submissions. 
+ congratulations!  Xiao Zian won the **Outstanding Student Paper Award** at the 38th IEEE MEMS (International Conference on Micro Electro Mechanical Systems), 2025, in Kaohsiung, Taiwan, for his paper titled ‘Edge-Computing Enabled Si Photonics Multimodal Sensor with Integrated Photonic Convolutional Processor.’ His work was selected from over 700 submissions. 
 
 
 I am currentlya Ph.D. student in Electrical and Computer Engineering at the Center for Intelligence Sensor and MEMS within [National University of Singapore](https://www.ece.nus.edu.sg/stfpage/elelc/home.html) and supervised by Prof. Chengkuo Lee. In the meantime, I am also an attached student at IME, supervised by Dr. Bowei Dong.
@@ -18,7 +18,9 @@ During my PhD studies, I focus on design, fabrication, and characterization of h
 &nbsp;
 
 ### Related Publication
-[5]Yangyang Zhuge, Zhihao Ren, **Zian Xiao**, Zixuan Zhang, Xinmiao Liu, Weixin Liu, Siyu Xu, Chong Pei Ho, Nanxi Li, and Chengkuo Lee, Photonic Bayesian Neural Networks: Leveraging Programmable Noise for Robust and Uncertainty-Aware Computing. **Adv. Sci**, to be published, 2025.
+[6]**Zian Xiao**, Zhihao Ren, Yangyang Zhuge, Zixuan Zhang, Yan Yang, Bowei Dong, and Chengkuo Lee, End-to-end all-optical in-sensor computing system using photonic integrated circuits, **Science Advances**, to be published, 2026.
+
+[5]Yangyang Zhuge, Zhihao Ren, **Zian Xiao**, Zixuan Zhang, Xinmiao Liu, Weixin Liu, Siyu Xu, Chong Pei Ho, Nanxi Li, and Chengkuo Lee, Photonic Bayesian Neural Networks: Leveraging Programmable Noise for Robust and Uncertainty-Aware Computing. **Advanced Science**, vol.12, no.23, 202500525, 2025.
 
 [4]Zhihao Ren, Zixuan Zhang, Yangyang Zhuge, **Zian Xiao**, Siyu Xu and Chengkuo Lee, Near-sensor Edge Computing (NSEC) System Enabled by a CMOS Compatible Photonic Integrated Circuit (PIC) Platform Using Bilayer AlN/Si Waveguides. **Nano-Micro Letters**, to be published, 2025.
 
